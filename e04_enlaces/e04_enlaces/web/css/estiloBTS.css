@@ -171,6 +171,10 @@ h3.comun, h2{
     
 }
 
+h2:hover {
+    background:#74396b;
+   }
+
 h3#especial {
     background-image: url(../img/estrella.png);
     background-color:rgba(116, 57, 107, 0.682);
