@@ -170,7 +170,9 @@ h3.comun, h2{
     text-shadow: 1px 1px 2px black;
     
 }
-
+h2 {
+    transition: background 0.3s ease-in-out;
+}
 h2:hover {
     background:#74396b;
    }
